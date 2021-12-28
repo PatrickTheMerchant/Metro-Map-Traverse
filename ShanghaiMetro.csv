@@ -1,0 +1,184 @@
+Xinzhuang (1),                    line 1,      Waihuanlu:1.31,                            Xinzhuang (5):0.5 
+Waihuanlu,                        line 1,      Xinzhuang 1:1.31,                          Lianhua Road:1.46
+Lianhua Road,                     line 1,      Waihuanlu:1.46,                            Jinjiang Park:1.63	
+Jinjiang Park,                    line 1,      Lianhua Road:1.63,                         Shanghai South Railway Station (1):2.09
+Shanghai South Railway Station (1), line 1,    Jinjiang Park:2.09,                        Caobao Road (1):1.60,                      //Shanghai South Railway Station (3):0.1//
+Caobao Road (1),                  line 1,      Shanghai South Railway Station (1):1.60,   Shanghai Indoor Stadium (1):1.57,          //Caobao Road (12):0.1//
+Shanghai Indoor Stadium (1),      line 1,      Caobao Road (1):1.57,                      Xujiahui (1):1.20,                         Shanghai Indoor Stadium (4):0.1
+Xujiahui (1),                     line 1,      Shanghai Indoor Stadium (1):1.20,          Hengshan Road:1.58                         Xujiahui (9):0.5,                          //Xujiahui (11):0.1//
+Hengshan Road,                    line 1,      Xujiahui (1):1.58,                         Changshu Road (1):1.09
+Changshu Road (1),                line 1,      Hengshan Road:0.9,                         South Shanxi Road (1):0.93,                Changshu Road (7):0.1, 
+South Shanxi Road (1),            line 1,      Changshu Road (1):0.93,                    South Huangpi Road:1.32,                   //South Shanxi Road (10):0.1//,                //South Shanxi Road (12):0.1//	
+South Huangpi Road,               line 1,      South Shanxi Road (1):1.32,                People's Square (1):1.57	
+People's Square (1),              line 1,      South Huangpi Road:1.57,                   Xinzha Road:0.95,                          People's Square (2):0.1,                   //People's Square (8):0.1//
+Xinzha Road,                      line 1,      People's Square (1):0.95,                  Hanzhong Road (1):0.99	
+Hanzhong Road (1),                line 1,      Xinzha Road:0.99,                          Shanghai Railway Station (1):0.82,         //Hanzhong Road (12):0.1//,                    //Hanzhong Road (13):0.1//
+Shanghai Railway Station (1),     line 1,      Hanzhong Road (1):0.82,                    North Zhongshan Road:1.37,                 //Shanghai Railway Station (3):0.1//,          Shanghai Railway Station (4):0.1 
+North Zhongshan Road,             line 1,      Shanghai Railway Station (1):1.37,         Yanchang Road:1.52
+Yanchang Road,                    line 1,      North Zhongshan Road:1.52,                 Shanghai Circus World:0.93	
+Shanghai Circus World,            line 1,      Yanchang Road:0.93,                        Wenshui Road:1.44	
+Wenshui Road,                     line 1,      Shanghai Circus World:1.44,                Pengpu Xincun:1.57	
+Pengpu Xincun,                    line 1,      Wenshui Road:1.57,                         Gongkang Road:1.39
+Gongkang Road,                    line 1,      Pengpu Xincun:1.39,                        Tonghe Xincun:1.44
+Tonghe Xincun,                    line 1,      Gongkang Road:1.44,                        Hulan Road:1.01
+Hulan Road,                       line 1,      Tonghe Xincun:1.01,                        Gongfu Xincun:1.75
+Gongfu Xincun,                    line 1,      Hulan Road:1.75,                           Bao'an Highway:1.64
+Bao'an Highway,                   line 1,      Gongfu Xincun:1.64,                        West Youyi Road:1.32
+West Youyi Road,                  line 1,      Bao'an Highway:1.32,                       Fujin Road:1.27
+Fujin Road,                       line 1,      West Youyi Road:1.27,	
+East Xujing,                      line 2,      Hongqiao Railway Station (2):2.13 
+Hongqiao Railway Station (2),     line 2,      East Xujing:2.13,                          Hongqiao Airport Terminal 2 (2):0.51,       //Hongqiao Railway Station (10)：0.1//,          //Hongqiao Railway Station (17)//：0.1
+Hongqiao Airport Terminal 2 (2),  line 2,      Hongqiao Railway Station (2):0.51,         Songhong Road:5.69,                         //Hongqiao Airport Terminal 2 (10)：0.1//
+Songhong Road,                    line 2,      Hongqiao Airport Terminal 2 (2):5.69,      Beixinjing:1.40	
+Beixinjing,                       line 2,      Songhong Road:1.40,                        Weining Road:1.26
+Weining Road,                     line 2,      Beixinjing:1.26,                           Loushanguan_Road:1.60
+Loushanguan Road,                 line 2,      Weining Road:1.60,                         Zhongshan Park:1.68
+Zhongshan Park,                   line 2,      Loushanguan Road:1.68,                     Jiangsu Road (2):1.43                           
+Jiangsu Road (2),                 line 2,      Zhongshan Park:1.43,                       Jing'an Temple (2):1.13,                    //Jiangsu Road (3)：0.1//,   Jiangsu Road (4)：0.1  //Jiangsu Road (11)：0.1//
+Jing'an Temple (2),               line 2,      Jiangsu Road (2):1.13,                     West Nanjing Road (2):1.82,                 Jing'an Temple (7)：0.1
+West Nanjing Road (2),            line 2,      Jing'an Temple (2):1.82,                   People's Square (2):1.21,                   //West Nanjing Road (12)：0.1//,                  //West Nanjing Road (13)：0.1//
+People's Square (2),              line 2,      West Nanjing Road (2):1.21,                East Nanjing Road:1.14,                     People's Square (1)：0.1,                     //People's Square (8):0.1//
+East Nanjing Road (2),            line 2,      People's Square (2):1.14,                  Lujiazui:1.86,                              //East Nanjing Road (10):0.1//
+Lujiazui,                         line 2,      East Nanjing Road:1.86,                    Dongchang Road:1.30
+Dongchang Road,                   line 2,      Lujiazui:1.30,                             Century Avenue (2):1.27
+Century Avenue (2),               line 2,      Dongchang Road:1.27,                       Shanghai Science and Technology Museum:1.81,   Century Avenue (4):0.1,  Century Avenue (6):0.1, Century Avenue (9):0.1	
+Shanghai Science and Technology Museum, line 2,      Century Avenue (2):1.81,             Century Park:1.43
+Century Park,                     line 2,      Shanghai Science and Technology Museum:1.43,      Longyang Road (2):1.09
+Longyang Road (2),                line 2,      Century Park:1.09,                         Zhangjiang Hi-Tech Park:2.67,               Longyang Road (7):0.1,                      //Longyang Road (16):0.1// 
+Zhangjiang Hi-Tech Park,          line 2,      Longyang Road (2):2.67,                    Jinke Road:1.64
+Jinke Road,                       line 2,      Zhangjiang Hi-Tech Park:1.64,              Guanglan Road:1.95	
+Guanglan Road,                    line 2,      Jinke Road:1.95,                           Tangzhen:3.38
+Tangzhen,                         line 2,      Guanglan Road:3.38,                        Middle Chuangxin Road:1.76
+Middle Chuangxin Road,            line 2,      Tangzhen:1.76,                             East Huaxia Road:2.13
+East Huaxia Road,                 line 2,      Middle Chuangxin Road:2.13,                Chuansha:3.17
+Chuansha,                         line 2,      East Huaxia Road:3.17,                     Lingkong Road:1.90
+Lingkong Road,                    line 2,      Chuansha:1.90,                             Yuandong Avenue:3.11
+Yuandong Avenue,                  line 2,      Lingkong Road:3.11,                        Haitiansan Road:5.91
+Haitiansan Road,                  line 2,      Yuandong Avenue:5.91,                      Pudong International Airport:2.33
+Pudong International Airport,     line 2,      Haitiansan Road:2.33,
+Yishan Road (4),                  line 4,      Shanghai Indoor Stadium (4):0.67,          Hongqiao Road (4):1.37,                     //Yishan Road (3):0.1//,                        Yishan Road(9):0.1
+Hongqiao Road (4),                line 4,      Yishan Road (4):1.37,                      West Yan'an Road:1.41,                      //Hongqiao Road (10):0.1//
+West Yan'an Road,                 line 4,      Hongqiao Road (4):1.41,                    Zhongshan Park (4):0.96,
+Zhongshan Park (4),               line 4,      West Yan'an Road:0.96,                     Jinshajiang Road:1.66,                      Zhongshan Park (2):0.1
+Jinshajiang Road (4),             line 4,      Zhongshan Park (4):1.66,                   Caoyang Road (4):0.90,                      //Jinshajiang Road (13):0.1//
+Caoyang Road (4),                 line 4,      Jinshajiang Road:0.90,                     Zhenping Road (4):1.40,                     //Caoyang Road (11):0.1//
+Zhenping Road (4),                line 4,      Caoyang Road (4):1.40,                     Zhongtan Road:1.44,                         Zhenping Road (7):0.1
+Zhongtan Road,                    line 4,      Zhenping Road (4):1.44,                    Shanghai Railway Station:1.72
+Shanghai Railway Station,         line 4,      Zhongtan Road:1.72,                        Baoshan Road:2.03
+Baoshan Road,                     line 4,      Shanghai Railway Station:2.03,             Hailun Road (4):1.51
+Hailun Road (4),                  line 4,      Baoshan Road:1.51,                         Linping Road:1.07,                          //Hailun Road (10):0.1//
+Linping Road,                     line 4,      Hailun Road (4):1.07,                      Dalian Road:1.40
+Dalian Road,                      line 4,      Linping Road:1.40,                         Yangshupu Road:0.72
+Yangshupu Road,                   line 4,      Dalian Road:0.72,                          Pudong Avenue:1.44
+Pudong Avenue,                    line 4,      Yangshupu Road:1.44,                       Century Avenue (4):1.43
+Century Avenue (4),               line 4,      Pudong Avenue:1.43,                        Pudian Road:0.85,                           Century Avenue (2):0.1,  Century Avenue (6):0.1,  Century Avenue (9):0.1
+Pudian Road,                      line 4,      Century Avenue (4):0.85,                   Lancun Road (4):1.34
+Lancun Road (4),                  line 4,      Pudian Road:1.34,                          Tangqiao:1.21,                              Lancun Road (6):0.1
+Tangqiao,                         line 4,      Lancun Road (4):1.21,                      Nanpu Bridge:2.13
+Nanpu Bridge,                     line 4,      Tangqiao:2.13,                             South_Xizang_Road_4:1.22	
+South Xizang Road (4),            line 4,      Nanpu Bridge:1.22,                         Luban Road:1.47,                            //South Xizang Road (8):0.1//
+Luban Road,                       line 4,      South Xizang Road (4):1.47,                Damuqiao Road (4):1.19
+Damuqiao Road (4),                line 4,      Luban Road:1.19,                           Dong'an Road (4):0.62,                      //Damuqiao Road (12):0.1//
+Dong'an Road (4),                 line 4,      Damuqiao Road (4):0.62,                    Shanghai Stadium:1.51,                      Dong'an Road (7):0.1
+Shanghai Stadium,                 line 4,      Dong'an Road (4):1.51,                     Shanghai Indoor Stadium (4):1.51
+Shanghai Indoor Stadium (4),      line 4,      Shanghai Stadium:1.51,                     Yishan Road (4):0.67,                       Shanghai Indoor Stadium (1):0.1
+Gangcheng Road,                   line 6,      North Waigaoqiao Free Trade Zone:1.62
+North Waigaoqiao Free Trade Zone, line 6,      Gangcheng Road:1.62,                       Hangjin Road:1.53	
+Hangjin Road,                     line 6,      North Waigaoqiao Free Trade Zone:1.53,     South Waigaoqiao Free Trade Zone:1.71
+South Waigaoqiao Free Trade Zone, line 6,      Hangjin Road:1.71,                         Zhouhai Road:2.03
+Zhouhai Road,                     line 6,      South Waigaoqiao Free Trade Zone:2.03,     Wuzhou Avenue:1.08
+Wuzhou Avenue,                    line 6,      Zhouhai Road:1.08,                         Dongjing Road:1.32
+Dongjing Road,                    line 6,      Wuzhou Avenue:1.32,                        Jufeng Road (6):1.11
+Jufeng Road (6),                  line 6,      Dongjing Road:1.11,                        Wulian Road:0.96                            //Jufeng Road (12):0.1//
+Wulian Road,                      line 6,      Jufeng Road (6):0.96,                      Boxing Road:0.90
+Boxing Road,                      line 6,      Wulian Road:0.90,                          Jinqiao Road:0.81
+Jinqiao Road,                     line 6,      Boxing Road:0.81,                          Yunshan Road:1.13
+Yunshan Road,                     line 6,      Jinqiao Road:1.13,                         Deping Road:1.03
+Deping Road,                      line 6,      Yunshan Road:1.03,                         Beiyangjing Road:1.34
+Beiyangjing Road,                 line 6,      Deping Road:1.34,                          Minsheng Road:0.89
+Minsheng Road,                    line 6,      Beiyangjing Road:0.89,                     Yuanshen Stadium:0.87
+Yuanshen Stadium,                 line 6,      Minsheng Road:0.87,                        Century Avenue (6):0.93	
+Century Avenue (6),               line 6,      Yuanshen Stadium:0.93,                     Pudian Road:1.07,                           Century Avenue (2):0.1,  Century Avenue (4):0.1,  Century Avenue (9):0.1
+Pudian Road,                      line 6,      Century Avenue (6):1.07,                   Lancun Road (6):0.93
+Lancun Road (6),                  line 6,      Pudian Road:0.93,                          Shanghai Children's Medical Center:0.99,    Lancun Road (4):0.1
+Shanghai Children's Medical Center,      line 6,      Lancun Road (6):0.99,               Linyi Xincun:1.34
+Linyi Xincun,                     line 6,      Shanghai Children's Medical Center:1.34,   West Gaoke Road (6):1.11	
+West Gaoke Road (6),              line 6,      Linyi Xincun:1.11,                         Dongming Road (6):1.45,                     West Gaoke Road (7):0.1
+Dongming Road (6),                line 6,      West Gaoke Road (6):1.45,                  Gaoqing Road:1.57,                          //Dongming Road (13):0.1//
+Gaoqing Road,                     line 6,      Dongming Road (6):1.57,                    West Huaxia Road:1.40 
+West Huaxia Road,                 line 6,      Gaoqing Road:1.40,                         Shangnan Road:0.80	
+Shangnan Road,                    line 6,      West Huaxia Road:0.80,                     South Lingyan Road:1.08
+South Lingyan Road,               line 6,      Shangnan Road:1.08,                        Oriental Sports Center (6):1.54
+Oriental Sports Center (6),       line 6,      South Lingyan Road:1.54,                   Oriental Sports Center (8):0.1,             //Oriental Sports Center (11):0.1//
+Meilan Lake,                      line 7,      Luonan Xincun:1.65	
+Luonan Xincun,                    line 7,      Meilan Lake:1.65,                          Panguang Road:2.98
+Panguang Road,                    line 7,      Luonan Xincun:2.98,	                  Liuhang:0.97
+Liuhang,                          line 7,      Panguang Road:0.97,	                  Gucun Park:1.72
+Gucun Park,                       line 7,      Liuhang:1.72,	                          Qihua Road:2.74   
+Qihua Road,                       line 7,      Gucun Park:2.74,	                          Shanghai University:1.68
+Shanghai University,              line 7,      Qihua Road:1.68,	                          Nanchen Road:0.95
+Nanchen Road,                     line 7,      Shanghai University:0.95,                  Shangda Road:1.42
+Shangda Road,                     line 7,      Nanchen Road:1.42,                         Changzhong Road:1.41
+Changzhong Road,                  line 7,      Shangda Road:1.41,                         Dachang Town:1.24
+Dachang Town,                     line 7,      Changzhong Road:1.24,                      Xingzhi Road:1.04
+Xingzhi Road,                     line 7,      Dachang Town:1.04,                         Dahuasan Road:1.25
+Dahuasan Road,                    line 7,      Xingzhi Road:1.25,                         Xincun Road:1.06
+Xincun Road,                      line 7,      Dahuasan Road:1.06,                        Langao Road:0.81
+Langao Road,                      line 7,      Xincun Road:0.81,                          Zhenping Road (7):1.53
+Zhenping Road (7),                line 7,      Langao Road:1.53,                          Changshou Road (7):1.03,                   //Zhenping Road (3):0.1//,             Zhenping Road (4):0.1
+Changshou Road (7),               line 7,      Zhenping Road (7):1.03,                    Changping Road:0.75,                       //Changshou Road (13):0.1//
+Changping Road,                   line 7,      Changshou Road (7):0.75,                   Jing'an Temple (7):1.38   
+Jing'an Temple (7),               line 7,      Changping Road:1.38,                       Changshu Road (7):1.09,                    Jing'an Temple (2):0.1
+Changshu Road (7),                line 7,      Jing'an Temple (7):1.09,                   Zhaojiabang Road (7):1.66,                 Changshu Road (1):0.1
+Zhaojiabang Road (7),             line 7,      Changshu Road (7):1.66,                    Dong'an Road (7):0.96,                     Zhaojiabang Road (9):0.1
+Dong'an Road (7),                 line 7,      Zhaojiabang Road (7):0.96,                 Middle Longhua Road (7):0.75,              Dong'an Road (4):0.1
+Middle Longhua Road (7),          line 7,      Dong'an Road (7):0.75,                     Houtan:2.21,                               //Middle Longhua Road (12):0.1//
+Houtan,                           line 7,      Middle Longhua Road (7):2.21,              hangqing Road (7):1.28
+hangqing Road (7),                line 7,      Houtan:1.28,                               Yaohua Road (7):0.94,                      //hangqing Road (13):0.1//
+Yaohua Road (7),                  line 7,      hangqing Road (7):0.94,                    Yuntai Road:0.73,                          //Yaohua Road (8):0.1//
+Yuntai Road,                      line 7,      Yaohua Road (7):0.73,                      West Gaoke Road (7):0.97	
+West Gaoke Road (7),              line 7,      Yuntai Road:0.97,                          South Yanggao Road:1.48,                   West Gaoke Road (6)0.1
+South Yanggao Road,               line 7,      West Gaoke Road (7):1.48,                  Jinxiu Road:1.44
+Jinxiu Road,                      line 7,      South Yanggao Road:1.44,                   Fanghua Road:1.45
+Fanghua Road,                     line 7,      Jinxiu Road:1.45,                          Longyang Road (7):1.69
+Longyang Road (7),                line 7,      Fanghua Road:1.69,                         Huamu Road:1.14,                           Longyang Road (2):0.1,             //Longyang Road (16):0.1//
+Huamu Road,                       line 7,      Longyang Road (7):1.14
+Songjiang South Railway Station,  line 9,      Zuibaichi Park:1.79
+Zuibaichi Park,                   line 9,      Songjiang South Railway Station:1.79,      Songjiang Sports Center:1.73
+Songjiang Sports Center,          line 9,      Zuibaichi Park:1.73,                       Songjiang Xincheng:1.58
+Songjiang Xincheng,               line 9,      Songjiang Sports Center:1.58,              Songjiang University Town:2.64
+Songjiang University Town,        line 9,      Songjiang Xincheng:2.64,                   Dongjing:3.38
+Dongjing,                         line 9,      Songjiang University Town:3.38,            Sheshan:2.20
+Sheshan,                          line 9,      Dongjing:2.20,                             Sijing:3.86
+Sijing,                           line 9,      Sheshan:3.86,                              Jiuting:6.24
+Jiuting,                          line 9,      Sijing:6.24,                               Zhongchun Road:2.26	
+Zhongchun Road,                   line 9,      Jiuting:2.26,                              Qibao:1.30
+Qibao,                            line 9,      Zhongchun Road:1.30,                       Xingzhong Road:1.88
+Xingzhong Road,                   line 9,      Qibao:1.88,                                Hechuan Road:1.85
+Hechuan Road                      line 9,      Xingzhong Road:1.85,                       Caohejing Hi-Tech Park:1.33
+Caohejing Hi-Tech Park,           line 9,      Hechuan Road:1.33,                         Guilin Road:2.03
+Guilin Road,                      line 9,      Caohejing Hi-Tech Park:2.03,               Yishan Road (9):1.68
+Yishan Road (9),                  line 9,      Guilin Road:1.68,                          Xujiahui (9):1.50,                         Yishan Road (3):0.1,               Yishan Road (4):0.1
+Xujiahui (9),                     line 9,      Yishan Road (9):1.50,                      Zhaojiabang Road (9):1.38                  Xujiahui (1):0.1,                  //Xujiahui (11):0.1//
+Zhaojiabang Road (9),             line 9,      Xujiahui (9):1.38,                         Jiashan Road (9):1.06,                     Zhaojiabang Road (7):0.1
+Jiashan Road (9),                 line 9,      Zhaojiabang Road (9):1.06,                 Dapuqiao:0.87,                             //Jiashan Road (12):0.1//
+Dapuqiao,                         line 9,      Jiashan Road (9):0.87,                     Madang Road (9):0.84
+Madang Road (9),                  line 9,      Dapuqiao:0.84,                             Lujiabang Road (9):0.94,                   //Madang Road (13):0.1//
+Lujiabang Road (9),               line 9,      Madang Road (9):0.94,                      Xiaonanmen:1.47,                           //Lujiabang Road (8):0.1//
+Xiaonanmen,                       line 9,      Lujiabang Road (9):1.47,                   Shangcheng Road:2.39
+Shangcheng Road,                  line 9,      Xiaonanmen:2.39,                           Century Avenue (9):0.97
+Century Avenue (9),               line 9,      Shangcheng Road:0.97,                      Middle Yanggao Road:2.43,       Century Avenue (2):0.1,  Century Avenue (4):0.1,  Century Avenue (6):0.1
+Middle Yanggao Road,              line 9,      Century Avenue (9):2.43,                   Fangdian Road:1.06
+Fangdian Road,                    line 9,      Middle Yanggao Road:1.06,                  Lantian Road:2.12
+Lantian Road,                     line 9,      Fangdian Road:2.12,                        Taierzhuang Road:2.30
+Taierzhuang Road,                 line 9,      Lantian Road:2.30,                         Jinqiao:1.54
+Jinqiao,                          line 9,      Taierzhuang Road:1.54,                     Jinji Road:1.69
+Jinji Road,                       line 9,      Jinqiao:1.69,                              Jinhai Road (9):1.02
+Jinhai Road (9),                  line 9,      Jinji Road:1.02,                           Gutang Road:1.71,                           //Jinhai Road (12):0.1//
+Gutang Road,                      line 9,      Jinhai Road (9):1.71,                      Minlei Road:1.12
+Minlei Road,                      line 9,      Gutang Road:1.12,                          Caolu:1.50
+Caolu,                            line 9,      Minlei Road:1.50
+
+
+
+
